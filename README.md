@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Mobile & Web Developer from Indonesia (jk)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Flutter+%26+Web+Dev;Let's+build+something+great+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Flutter+%26+Web+Dev;Let's+build+something+great+🚀" />
+
 </p>
 
 
